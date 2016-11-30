@@ -1,8 +1,8 @@
-### The Team
+## The Team
 
 The XFR Collective team comes from a variety of backgrounds with a multitude of combined experiences and skills, including  video and media arts production, collection management, teaching and research in the humanities, archiving and preservation services, records management, and project development.
 
-## Active Core Members
+### Active Core Members
 
 Brendan Allen manages the Archives for Democracy Now! He attended the School of Visual Arts and received a BA in English Literature and Media Studies from the University of New Mexico. He worked as a video librarian for Black Entertainment Television in 1998 and then moved to Public Broadcasting Service in Alexandria, VA, where he worked as the library media coordinator. In 2006, Brendan earned a Master’s in Library Information Science at Pratt Institute, while working as the Senior Archivist for the United Nations Children’s Fund (UNICEF) in New York City.
 
@@ -30,7 +30,7 @@ Yvonne Ng currently works as Senior Archivist at WITNESS, where she manages a co
 
 Pamela Vizner works with artist and film preservationist Bill Brand and is the Audiovisual Archivist at IndieCollect.  She is a recent graduate of NYU’s Moving Image Archive and Preservation Program, and played a major role in organizing the two most recent iterations of NYU’s Audiovisual Preservation Exchange (APEX) program, leading students on preservation projects with the Fundación Patrimonio Filmico Colombiano in Bogotá and the Universidad Católica del Uruguay in Montevideo.
 
-## Members-at-Large
+### Members-at-Large
 
 Ashley Blewer is an audiovisual archivist, technologist, and enthusiast. She works as an Applications Developer at the New York Public Library, formerly as a web developer and digital archives consultant. She cares about education (especially in tech), access (especially to moving images), the act of creation (especially on the web), and good archival practice (especially with digital formats). She holds an MLIS (Archives) and BA (Graphic Design) from the University of South Carolina. She is an active contributor to MediaConch, a digital video file conformance checker software project under PREFORMA, funded by the European Commission FP7-ICT Programme.
 
