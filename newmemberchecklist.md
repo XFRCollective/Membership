@@ -1,4 +1,4 @@
-### When someone expresses interest in joining XFR:
+# When someone expresses interest in joining XFR:
 
 Member who receives request passes it on to the Admin Subcommittee
 
