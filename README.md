@@ -1,4 +1,4 @@
-## The Team
+ ## The Team
 
 The XFR Collective team comes from a variety of backgrounds with a multitude of combined experiences and skills, including  video and media arts production, collection management, teaching and research in the humanities, archiving and preservation services, records management, and project development.
 
@@ -12,7 +12,7 @@ The XFR Collective team comes from a variety of backgrounds with a multitude of 
 
 Ethan Gates  graduated in spring of 2015 from NYU’s master’s program in Moving Image Archiving and Preservation, where he now works as the department’s resident technician. Hobbies include obsessing over Soviet cinema, fixing his family’s audiovisual equipment via telephone, and finding the best New Zealand Sauvignon Blanc.
 
-**Michael Grant**is an archivist and video preservationist with a pile of jobs.  He preserves analog video for NYU Libraries and the Educational Video Center, catalogs and digitizes paper material in the archives at La MaMa E.T.C., and on the side does props and graphic design for some of the musicals that his amazing wife, Kit, writes.  He is just a silly little person, but somehow he gets to be involved with some really cool stuff.
+**Michael Grant** is an archivist and video preservationist with a pile of jobs.  He preserves analog video for NYU Libraries and the Educational Video Center, catalogs and digitizes paper material in the archives at La MaMa E.T.C., and on the side does props and graphic design for some of the musicals that his amazing wife, Kit, writes.  He is just a silly little person, but somehow he gets to be involved with some really cool stuff.
 
 **Dinah Handel** is an archivist concerned with the preservation of audio visual materials. She was a National Digital Stewardship Resident hosted by CUNY Television, a position that opened her eyes to the unique preservation challenges that audio visual materials presented. She also cares about open source technology in archives, and building useful technology skills among archivists. Previous to CUNY TV, Dinah was an Archives Graduate Fellow at the Barnard College Archives and Special Collections. She holds an MLIS from Pratt Institute and a BA in Women’s History from Hampshire College.
 
