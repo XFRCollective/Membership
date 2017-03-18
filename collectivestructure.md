@@ -1,0 +1,5 @@
+**Monthly all-member meetings:** XFR collective meets once monthly as an entire group, with all current members present. At these meetings, we check in about the work that has been done throughout the prior month within subcommittees, determine what new tasks need to be accomplished, and create and assign ourselves to new subcommittees for the next month. 
+
+**Subcommittee work:** Subcommittees are determined depending on the projects, workshops, events, and partnerships XFR undertakes, as well as the internal needs of the collective. There is always an administrative subcommittee, which is responsible for administrative and project management tasks relating to the functioning of the collective. Subcommittees typically have 3-4 members, and determine their own meeting schedule and tasks based on the project, event, or workshop at hand. 
+
+**Weekly transfer sessions:** In addition to monthly meetings, collective members sign up for a transfer session, which currently take place on Mondays. Each collective member is expected to attend one transfer session per month. 
